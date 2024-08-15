@@ -1,0 +1,6 @@
+[submodule "challenge-alkemy"]
+	path = challenge-alkemy
+	url = https://github.com/E3MiLiAn0/challenge-alkemy.git
+[submodule "proyecto-final"]
+	path = proyecto-final
+	url = https://github.com/E3MiLiAn0/proyecto-final.git
